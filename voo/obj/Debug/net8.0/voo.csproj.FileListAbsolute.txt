@@ -1,0 +1,14 @@
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\voo\bin\Debug\net8.0\voo.exe
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\voo\bin\Debug\net8.0\voo.deps.json
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\voo\bin\Debug\net8.0\voo.runtimeconfig.json
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\voo\bin\Debug\net8.0\voo.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\voo\bin\Debug\net8.0\voo.pdb
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\voo\obj\Debug\net8.0\voo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\voo\obj\Debug\net8.0\voo.AssemblyInfoInputs.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\voo\obj\Debug\net8.0\voo.AssemblyInfo.cs
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\voo\obj\Debug\net8.0\voo.csproj.CoreCompileInputs.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\voo\obj\Debug\net8.0\voo.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\voo\obj\Debug\net8.0\refint\voo.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\voo\obj\Debug\net8.0\voo.pdb
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\voo\obj\Debug\net8.0\voo.genruntimeconfig.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\voo\obj\Debug\net8.0\ref\voo.dll
