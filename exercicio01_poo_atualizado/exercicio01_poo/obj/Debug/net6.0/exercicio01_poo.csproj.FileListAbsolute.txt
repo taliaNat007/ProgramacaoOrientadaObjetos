@@ -1,0 +1,14 @@
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\exercicio01_poo\bin\Debug\net6.0\exercicio01_poo.exe
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\exercicio01_poo\bin\Debug\net6.0\exercicio01_poo.deps.json
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\exercicio01_poo\bin\Debug\net6.0\exercicio01_poo.runtimeconfig.json
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\exercicio01_poo\bin\Debug\net6.0\exercicio01_poo.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\exercicio01_poo\bin\Debug\net6.0\exercicio01_poo.pdb
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\exercicio01_poo\obj\Debug\net6.0\exercicio01_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\exercicio01_poo\obj\Debug\net6.0\exercicio01_poo.AssemblyInfoInputs.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\exercicio01_poo\obj\Debug\net6.0\exercicio01_poo.AssemblyInfo.cs
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\exercicio01_poo\obj\Debug\net6.0\exercicio01_poo.csproj.CoreCompileInputs.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\exercicio01_poo\obj\Debug\net6.0\exercicio01_poo.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\exercicio01_poo\obj\Debug\net6.0\refint\exercicio01_poo.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\exercicio01_poo\obj\Debug\net6.0\exercicio01_poo.pdb
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\exercicio01_poo\obj\Debug\net6.0\exercicio01_poo.genruntimeconfig.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\exercicio01_poo\obj\Debug\net6.0\ref\exercicio01_poo.dll
