@@ -1,0 +1,15 @@
+C:\Users\2022202060013\Desktop\prova_nivelamento\bin\Debug\net6.0\prova_nivelamento.exe
+C:\Users\2022202060013\Desktop\prova_nivelamento\bin\Debug\net6.0\prova_nivelamento.deps.json
+C:\Users\2022202060013\Desktop\prova_nivelamento\bin\Debug\net6.0\prova_nivelamento.runtimeconfig.json
+C:\Users\2022202060013\Desktop\prova_nivelamento\bin\Debug\net6.0\prova_nivelamento.dll
+C:\Users\2022202060013\Desktop\prova_nivelamento\bin\Debug\net6.0\prova_nivelamento.pdb
+C:\Users\2022202060013\Desktop\prova_nivelamento\obj\Debug\net6.0\prova_nivelamento.csproj.AssemblyReference.cache
+C:\Users\2022202060013\Desktop\prova_nivelamento\obj\Debug\net6.0\prova_nivelamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060013\Desktop\prova_nivelamento\obj\Debug\net6.0\prova_nivelamento.AssemblyInfoInputs.cache
+C:\Users\2022202060013\Desktop\prova_nivelamento\obj\Debug\net6.0\prova_nivelamento.AssemblyInfo.cs
+C:\Users\2022202060013\Desktop\prova_nivelamento\obj\Debug\net6.0\prova_nivelamento.csproj.CoreCompileInputs.cache
+C:\Users\2022202060013\Desktop\prova_nivelamento\obj\Debug\net6.0\prova_nivelamento.dll
+C:\Users\2022202060013\Desktop\prova_nivelamento\obj\Debug\net6.0\refint\prova_nivelamento.dll
+C:\Users\2022202060013\Desktop\prova_nivelamento\obj\Debug\net6.0\prova_nivelamento.pdb
+C:\Users\2022202060013\Desktop\prova_nivelamento\obj\Debug\net6.0\prova_nivelamento.genruntimeconfig.cache
+C:\Users\2022202060013\Desktop\prova_nivelamento\obj\Debug\net6.0\ref\prova_nivelamento.dll
