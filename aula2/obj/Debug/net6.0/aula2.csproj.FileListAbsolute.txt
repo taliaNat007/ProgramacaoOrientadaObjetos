@@ -1,0 +1,15 @@
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\aula2\bin\Debug\net6.0\aula2.exe
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\aula2\bin\Debug\net6.0\aula2.deps.json
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\aula2\bin\Debug\net6.0\aula2.runtimeconfig.json
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\aula2\bin\Debug\net6.0\aula2.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\aula2\bin\Debug\net6.0\aula2.pdb
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\aula2\obj\Debug\net6.0\aula2.csproj.AssemblyReference.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\aula2\obj\Debug\net6.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\aula2\obj\Debug\net6.0\aula2.AssemblyInfoInputs.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\aula2\obj\Debug\net6.0\aula2.AssemblyInfo.cs
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\aula2\obj\Debug\net6.0\aula2.csproj.CoreCompileInputs.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\aula2\obj\Debug\net6.0\aula2.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\aula2\obj\Debug\net6.0\refint\aula2.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\aula2\obj\Debug\net6.0\aula2.pdb
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\aula2\obj\Debug\net6.0\aula2.genruntimeconfig.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\aula2\obj\Debug\net6.0\ref\aula2.dll
