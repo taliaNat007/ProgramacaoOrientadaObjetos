@@ -1,0 +1,14 @@
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\Atividade_Encapsulamento\bin\Debug\net8.0\Atividade_Encapsulamento.exe
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\Atividade_Encapsulamento\bin\Debug\net8.0\Atividade_Encapsulamento.deps.json
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\Atividade_Encapsulamento\bin\Debug\net8.0\Atividade_Encapsulamento.runtimeconfig.json
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\Atividade_Encapsulamento\bin\Debug\net8.0\Atividade_Encapsulamento.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\Atividade_Encapsulamento\bin\Debug\net8.0\Atividade_Encapsulamento.pdb
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\Atividade_Encapsulamento\obj\Debug\net8.0\Atividade_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\Atividade_Encapsulamento\obj\Debug\net8.0\Atividade_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\Atividade_Encapsulamento\obj\Debug\net8.0\Atividade_Encapsulamento.AssemblyInfo.cs
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\Atividade_Encapsulamento\obj\Debug\net8.0\Atividade_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\Atividade_Encapsulamento\obj\Debug\net8.0\Atividade_Encapsulamento.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\Atividade_Encapsulamento\obj\Debug\net8.0\refint\Atividade_Encapsulamento.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\Atividade_Encapsulamento\obj\Debug\net8.0\Atividade_Encapsulamento.pdb
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\Atividade_Encapsulamento\obj\Debug\net8.0\Atividade_Encapsulamento.genruntimeconfig.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\Atividade_Encapsulamento\obj\Debug\net8.0\ref\Atividade_Encapsulamento.dll
