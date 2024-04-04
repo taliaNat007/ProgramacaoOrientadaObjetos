@@ -1,6 +1,16 @@
-﻿string cpf = "";
-cpf = "05810263224";
-cpf = cpf.Replace(".", "").Replace(".","-");
+﻿Console.WriteLine("Digite o CPF:");
+string cpf = Console.ReadLine();
 
-Validacao.SetCpf(cpf);
-Console.WriteLine(Validacao.GetCpf());
+bool valido = ValidadorCPF.ValidarCPF(cpf);
+
+if (valido)
+{
+    Console.WriteLine("CPF válido.");
+}
+else
+{ 
+    Console.WriteLine("CPF inválido.");
+}
+
+// Validacao.SetCpf(cpf);
+//Console.WriteLine(Validacao.GetCpf());
