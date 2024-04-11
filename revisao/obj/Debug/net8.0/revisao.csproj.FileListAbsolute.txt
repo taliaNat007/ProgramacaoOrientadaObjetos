@@ -1,0 +1,14 @@
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\revisao\bin\Debug\net8.0\revisao.exe
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\revisao\bin\Debug\net8.0\revisao.deps.json
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\revisao\bin\Debug\net8.0\revisao.runtimeconfig.json
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\revisao\bin\Debug\net8.0\revisao.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\revisao\bin\Debug\net8.0\revisao.pdb
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\revisao\obj\Debug\net8.0\revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\revisao\obj\Debug\net8.0\revisao.AssemblyInfoInputs.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\revisao\obj\Debug\net8.0\revisao.AssemblyInfo.cs
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\revisao\obj\Debug\net8.0\revisao.csproj.CoreCompileInputs.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\revisao\obj\Debug\net8.0\revisao.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\revisao\obj\Debug\net8.0\refint\revisao.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\revisao\obj\Debug\net8.0\revisao.pdb
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\revisao\obj\Debug\net8.0\revisao.genruntimeconfig.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\revisao\obj\Debug\net8.0\ref\revisao.dll
