@@ -1,0 +1,14 @@
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\segundaRevisao\bin\Debug\net8.0\segundaRevisao.exe
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\segundaRevisao\bin\Debug\net8.0\segundaRevisao.deps.json
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\segundaRevisao\bin\Debug\net8.0\segundaRevisao.runtimeconfig.json
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\segundaRevisao\bin\Debug\net8.0\segundaRevisao.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\segundaRevisao\bin\Debug\net8.0\segundaRevisao.pdb
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\segundaRevisao\obj\Debug\net8.0\segundaRevisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\segundaRevisao\obj\Debug\net8.0\segundaRevisao.AssemblyInfoInputs.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\segundaRevisao\obj\Debug\net8.0\segundaRevisao.AssemblyInfo.cs
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\segundaRevisao\obj\Debug\net8.0\segundaRevisao.csproj.CoreCompileInputs.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\segundaRevisao\obj\Debug\net8.0\segundaRevisao.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\segundaRevisao\obj\Debug\net8.0\refint\segundaRevisao.dll
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\segundaRevisao\obj\Debug\net8.0\segundaRevisao.pdb
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\segundaRevisao\obj\Debug\net8.0\segundaRevisao.genruntimeconfig.cache
+C:\Users\2022202060013\OneDrive - ifro.edu.br\Área de Trabalho\segundaRevisao\obj\Debug\net8.0\ref\segundaRevisao.dll
