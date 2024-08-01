@@ -1,0 +1,14 @@
+C:\Users\2022202060013\Desktop\aula31_07\bin\Debug\net8.0\aula31_07.exe
+C:\Users\2022202060013\Desktop\aula31_07\bin\Debug\net8.0\aula31_07.deps.json
+C:\Users\2022202060013\Desktop\aula31_07\bin\Debug\net8.0\aula31_07.runtimeconfig.json
+C:\Users\2022202060013\Desktop\aula31_07\bin\Debug\net8.0\aula31_07.dll
+C:\Users\2022202060013\Desktop\aula31_07\bin\Debug\net8.0\aula31_07.pdb
+C:\Users\2022202060013\Desktop\aula31_07\obj\Debug\net8.0\aula31_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060013\Desktop\aula31_07\obj\Debug\net8.0\aula31_07.AssemblyInfoInputs.cache
+C:\Users\2022202060013\Desktop\aula31_07\obj\Debug\net8.0\aula31_07.AssemblyInfo.cs
+C:\Users\2022202060013\Desktop\aula31_07\obj\Debug\net8.0\aula31_07.csproj.CoreCompileInputs.cache
+C:\Users\2022202060013\Desktop\aula31_07\obj\Debug\net8.0\aula31_07.dll
+C:\Users\2022202060013\Desktop\aula31_07\obj\Debug\net8.0\refint\aula31_07.dll
+C:\Users\2022202060013\Desktop\aula31_07\obj\Debug\net8.0\aula31_07.pdb
+C:\Users\2022202060013\Desktop\aula31_07\obj\Debug\net8.0\aula31_07.genruntimeconfig.cache
+C:\Users\2022202060013\Desktop\aula31_07\obj\Debug\net8.0\ref\aula31_07.dll
