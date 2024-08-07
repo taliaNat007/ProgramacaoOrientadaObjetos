@@ -1,0 +1,14 @@
+C:\Users\2022202060013\Desktop\exercicio_excessoes\obj\Debug\net8.0\exercicio_excessoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060013\Desktop\exercicio_excessoes\obj\Debug\net8.0\exercicio_excessoes.AssemblyInfoInputs.cache
+C:\Users\2022202060013\Desktop\exercicio_excessoes\obj\Debug\net8.0\exercicio_excessoes.AssemblyInfo.cs
+C:\Users\2022202060013\Desktop\exercicio_excessoes\obj\Debug\net8.0\exercicio_excessoes.csproj.CoreCompileInputs.cache
+C:\Users\2022202060013\Desktop\exercicio_excessoes\bin\Debug\net8.0\exercicio_excessoes.exe
+C:\Users\2022202060013\Desktop\exercicio_excessoes\bin\Debug\net8.0\exercicio_excessoes.deps.json
+C:\Users\2022202060013\Desktop\exercicio_excessoes\bin\Debug\net8.0\exercicio_excessoes.runtimeconfig.json
+C:\Users\2022202060013\Desktop\exercicio_excessoes\bin\Debug\net8.0\exercicio_excessoes.dll
+C:\Users\2022202060013\Desktop\exercicio_excessoes\bin\Debug\net8.0\exercicio_excessoes.pdb
+C:\Users\2022202060013\Desktop\exercicio_excessoes\obj\Debug\net8.0\exercicio_excessoes.dll
+C:\Users\2022202060013\Desktop\exercicio_excessoes\obj\Debug\net8.0\refint\exercicio_excessoes.dll
+C:\Users\2022202060013\Desktop\exercicio_excessoes\obj\Debug\net8.0\exercicio_excessoes.pdb
+C:\Users\2022202060013\Desktop\exercicio_excessoes\obj\Debug\net8.0\exercicio_excessoes.genruntimeconfig.cache
+C:\Users\2022202060013\Desktop\exercicio_excessoes\obj\Debug\net8.0\ref\exercicio_excessoes.dll
