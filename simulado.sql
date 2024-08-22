@@ -2,7 +2,7 @@ Create database simulado;
 use simulado;
 
 create table Alunos(
-Id_Aluno int primary key ,
+Id_Aluno int primary key auto_increment ,
 Nome varchar(100),
 Cpf varchar(15) ,
 Email varchar(150) ,
